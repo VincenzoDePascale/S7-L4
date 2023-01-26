@@ -18,7 +18,7 @@ const getLibrary = async () => {
     <h5 class="card-title">${element.title}</h5>
     <p class="card-text"><span class="bold">Price</span>: ${element.price}</p>
     <p class="card-text"><span class="bold">Category</span>: ${element.category}</p>
-    <a href="https://baconmockup.com/300/200" Target= “_blank” class="btn btn-primary bottone">Delete</a>
+    <a class="btn btn-primary bottone">Delete</a>
     </div>
     </div>
     `;
